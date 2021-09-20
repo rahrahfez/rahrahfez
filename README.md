@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @rahrahfez
-- 👀 I’m interested in ...
+- 👋 Hi, my name is David Om.
 - 🌱 I’m currently learning react-native.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me at david.om582@gmail.com
 
 <!---
 rahrahfez/rahrahfez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
